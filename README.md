@@ -14,5 +14,5 @@ As part of my advance digital communication course I simulated various modulatio
 I Learned about various digital modulation schemes.I Learned how noise effects the communication.
 
 ## 1.Binary Amplitude shift keying using MATLAB
-## 2.Binary Phase shify keying using MATLAB
-## 3.Binary Frequency shift keying using MATLAB
+## 2.Binary Frequency shify keying using MATLAB
+## 3.Binary Phase shift keying using MATLAB
