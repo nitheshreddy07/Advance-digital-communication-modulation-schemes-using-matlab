@@ -16,3 +16,7 @@ I Learned about various digital modulation schemes.I Learned how noise effects t
 ## 1.Binary Amplitude shift keying using MATLAB
 ## 2.Binary Frequency shify keying using MATLAB
 ## 3.Binary Phase shift keying using MATLAB
+## 4.Quaduature Amplitude modulation using MATLAB
+## 5.MPSK using MATLAB
+## 6.Linear block code using MATLAB
+## 7.Syndrome Decoding using MATLAB
